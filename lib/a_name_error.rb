@@ -1,2 +1,2 @@
-h = "hello world"
+h = "hello /////world"
 puts h
